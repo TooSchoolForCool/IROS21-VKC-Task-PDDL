@@ -2,8 +2,7 @@
 
 ![iros-2021](https://img.shields.io/badge/IROS-2021-brightgreen) ![ubuntu-18.04](https://img.shields.io/badge/ubuntu-18.04-blue) ![python-3](https://img.shields.io/badge/python-3.7.1-blue) 
 
-> This repo is for the IROS 2021 paper "Efficient Task Planning for Mobile Manipulation: a Virtual Kinematic Chain Perspective". This repo only contains the PDDL task planning module, the motion planning part is included in [this](https://github.com/zyjiao4728/VKC-Demo) repo.
-
+> This repo is for the IROS 2021 paper "[Efficient Task Planning for Mobile Manipulation: a Virtual Kinematic Chain Perspective](https://zeyuzhang.com/papers/2021-iros-vkc-task/)". This repo only contains the PDDL task planning module, the motion planning part is included in [this](https://github.com/zyjiao4728/VKC-Demo) repo.
 
 # 1. Installation
 
